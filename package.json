@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "photo-sphere-viewer": "^4.0.7",
+    "three": "^0.120.1",
     "vue": "^3.0.0-0"
   },
   "devDependencies": {

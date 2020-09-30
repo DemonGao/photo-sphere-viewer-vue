@@ -6208,6 +6208,14 @@ performance-now@^2.1.0:
   resolved "https://registry.npm.taobao.org/performance-now/download/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
   integrity sha1-Ywn04OX6kT7BxpMHrjZLSzd8nns=
 
+photo-sphere-viewer@^4.0.7:
+  version "4.0.7"
+  resolved "https://registry.npm.taobao.org/photo-sphere-viewer/download/photo-sphere-viewer-4.0.7.tgz#50f36538009b54faa2fb74b6402bec152be71677"
+  integrity sha1-UPNlOACbVPqi+3S2QCvsFSvnFnc=
+  dependencies:
+    three "^0.120.1"
+    uevent "~2.0.0"
+
 picomatch@^2.0.4, picomatch@^2.2.1:
   version "2.2.2"
   resolved "https://registry.npm.taobao.org/picomatch/download/picomatch-2.2.2.tgz#21f333e9b6b8eaff02468f5146ea406d345f4dad"
@@ -7846,6 +7854,11 @@ thread-loader@^2.1.3:
     loader-utils "^1.1.0"
     neo-async "^2.6.0"
 
+three@^0.120.1:
+  version "0.120.1"
+  resolved "https://registry.npm.taobao.org/three/download/three-0.120.1.tgz?cache=0&sync_timestamp=1598789967805&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fthree%2Fdownload%2Fthree-0.120.1.tgz#dbd8894f8ab87c109f1602933e7c740c98137377"
+  integrity sha1-29iJT4q4fBCfFgKTPnx0DJgTc3c=
+
 through2@^2.0.0:
   version "2.0.5"
   resolved "https://registry.npm.taobao.org/through2/download/through2-2.0.5.tgz#01c1e39eb31d07cb7d03a96a70823260b23132cd"
@@ -8009,6 +8022,11 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.npm.taobao.org/typedarray/download/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+uevent@~2.0.0:
+  version "2.0.0"
+  resolved "https://registry.npm.taobao.org/uevent/download/uevent-2.0.0.tgz#83d3a27dc746f0e0c98db3ca1c850ffe4aef4993"
+  integrity sha1-g9OifcdG8ODJjbPKHIUP/krvSZM=
 
 uglify-js@3.4.x:
   version "3.4.10"
